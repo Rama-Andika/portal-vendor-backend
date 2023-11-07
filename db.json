@@ -464,5 +464,20 @@
       "vendor_id": 28,
       "id": 2
     }
+  ],
+  "penagihan": [
+    {
+      "tipe_penagihan": "beli putus",
+      "nomer_po": "po09242424",
+      "tanggal_po": "2023-11-08",
+      "nomer_do": "4252525",
+      "delivery_area": "bali",
+      "nomer_invoice": "inv42424",
+      "tanggal_invoice": "2023-10-11",
+      "nilai_invoice": 1000,
+      "is_pajak": 1,
+      "nomer_seri_pajak": "",
+      "status": "DRAFT"
+    }
   ]
 }
